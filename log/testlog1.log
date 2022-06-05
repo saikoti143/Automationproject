@@ -1,0 +1,60 @@
+2022-04-26 22:19:47,500 [main] INFO ebanking - browser launched
+2022-04-26 22:19:47,635 [main] INFO ebanking - Entered username
+2022-04-26 22:19:47,709 [main] INFO ebanking - Entered password
+2022-04-26 22:19:50,088 [main] INFO ebanking - Click on submit
+2022-04-26 22:19:50,099 [main] INFO ebanking - Test passed
+2022-04-26 22:26:32,736 [main] INFO ebanking - browser launched
+2022-04-26 22:26:32,873 [main] INFO ebanking - Entered username
+2022-04-26 22:26:32,953 [main] INFO ebanking - Entered password
+2022-04-26 22:26:37,536 [main] INFO ebanking - Click on submit
+2022-04-26 22:26:37,566 [main] INFO ebanking - Test passed
+2022-04-26 22:26:49,859 [main] INFO ebanking - browser launched
+2022-04-26 22:35:21,946 [main] INFO ebanking - browser launched
+2022-04-26 22:35:22,088 [main] INFO ebanking - Entered username
+2022-04-26 22:35:22,168 [main] INFO ebanking - Entered password
+2022-04-26 22:35:26,380 [main] INFO ebanking - Click on submit
+2022-04-26 22:35:26,408 [main] INFO ebanking - Test passed
+2022-04-26 22:35:42,613 [main] INFO ebanking - browser launched
+2022-04-26 22:35:43,612 [main] INFO ebanking - Entered username
+2022-04-26 22:35:43,685 [main] INFO ebanking - Entered password
+2022-04-26 22:35:48,333 [main] INFO ebanking - Cliked on submit
+2022-04-26 22:35:51,392 [main] INFO ebanking - Login passed
+2022-04-26 22:35:59,788 [main] INFO ebanking - Entered username
+2022-04-26 22:35:59,863 [main] INFO ebanking - Entered password
+2022-04-26 22:36:01,282 [main] INFO ebanking - Cliked on submit
+2022-04-26 22:36:07,087 [main] INFO ebanking - Entered username
+2022-04-26 22:36:07,202 [main] INFO ebanking - Entered password
+2022-04-26 22:36:09,387 [main] INFO ebanking - Cliked on submit
+2022-04-26 22:36:16,581 [main] INFO ebanking - Entered username
+2022-04-26 22:36:16,645 [main] INFO ebanking - Entered password
+2022-04-26 22:36:20,585 [main] INFO ebanking - Cliked on submit
+2022-04-26 22:36:23,627 [main] INFO ebanking - Login passed
+2022-04-26 22:36:34,493 [main] INFO ebanking - Entered username
+2022-04-26 22:36:34,578 [main] INFO ebanking - Entered password
+2022-04-26 22:36:38,396 [main] INFO ebanking - Cliked on submit
+2022-04-26 22:36:41,438 [main] INFO ebanking - Login passed
+2022-06-04 11:53:52,091 [main] INFO ebanking - browser launched
+2022-06-04 11:53:52,196 [main] INFO ebanking - Entered username
+2022-06-04 11:53:52,260 [main] INFO ebanking - Entered password
+2022-06-04 11:53:52,778 [main] INFO ebanking - Click on submit
+2022-06-04 11:54:05,692 [main] INFO ebanking - browser launched
+2022-06-04 11:54:06,708 [main] INFO ebanking - Entered username
+2022-06-04 11:54:06,785 [main] INFO ebanking - Entered password
+2022-06-04 11:54:07,626 [main] INFO ebanking - Cliked on submit
+2022-06-04 11:54:10,655 [main] INFO ebanking - Login failed
+2022-06-04 11:54:17,095 [main] INFO ebanking - Entered username
+2022-06-04 11:54:17,138 [main] INFO ebanking - Entered password
+2022-06-04 11:54:17,854 [main] INFO ebanking - Cliked on submit
+2022-06-04 11:54:20,873 [main] INFO ebanking - Login failed
+2022-06-04 11:54:26,270 [main] INFO ebanking - Entered username
+2022-06-04 11:54:26,317 [main] INFO ebanking - Entered password
+2022-06-04 11:54:27,320 [main] INFO ebanking - Cliked on submit
+2022-06-04 11:54:30,338 [main] INFO ebanking - Login failed
+2022-06-04 11:54:37,485 [main] INFO ebanking - Entered username
+2022-06-04 11:54:37,525 [main] INFO ebanking - Entered password
+2022-06-04 11:54:38,422 [main] INFO ebanking - Cliked on submit
+2022-06-04 11:54:41,438 [main] INFO ebanking - Login failed
+2022-06-04 11:54:48,642 [main] INFO ebanking - Entered username
+2022-06-04 11:54:48,685 [main] INFO ebanking - Entered password
+2022-06-04 11:54:49,163 [main] INFO ebanking - Cliked on submit
+2022-06-04 11:54:52,180 [main] INFO ebanking - Login failed
